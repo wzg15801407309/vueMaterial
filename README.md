@@ -1,4 +1,4 @@
-# vuematerialstudy
+# simpleproject
 
 ## Project setup
 ```
